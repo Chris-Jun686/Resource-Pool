@@ -53,3 +53,46 @@ LQA 更依赖版本和设备。
 - PE：**12–18 人**  
 - LQA：**9–12 人**  
 - 加上备用和观察名单，总池 30–40 人规模比较合理。
+
+- ## 3. 人才获取渠道
+
+### 3.1 主动搜寻
+
+- **LinkedIn**  
+  搜索关键词：Japanese game localization editor, Korean LQA tester, Russian game translator 等。  
+  加入本地化相关群组。
+
+- **ProZ / TranslatorsCafe**  
+  传统翻译平台，适合找 PE，但游戏本地化经验需要筛选。
+
+- **Upwork / Fiverr**  
+  可以用，但质量波动大。适合补充弹性资源，不建议作为核心池唯一来源。
+
+- **本地化行业平台和社群**  
+  - LocJAM  
+  - IGDA Localization SIG  
+  - Women in Localization  
+  - Game Localization Discord/Slack 群  
+  - Reddit: r/gamedev, r/TranslationStudies, r/localization
+
+- **LSP / 供应商**  
+  如果项目量很大，可以直接与 2–3 家游戏本地化供应商合作，由他们提供 PE 和 LQA。这种方式省去大量管理成本，但费率会高于直接自由职业者。
+
+- **大学和语言项目**  
+  适合培养初级 LQA 或储备人才，不适合立刻承担核心项目。
+
+### 3.2 被动吸引
+
+- 发布清晰的 JD 和测试任务  
+- 在专业社群发布合作机会  
+- 建立推荐奖励机制：现有 PE/LQA 推荐合格人才，成功后给予奖金或优先派单
+
+### 3.3 人才保留和关系管理策略
+
+- **及时付款**：这是最重要的保留因素。  
+- **清晰 style guide 和术语库**：减少返工和沟通成本。  
+- **合理反馈**：让 PE/LQA 知道自己的质量如何被评估。  
+- **稳定派单**：核心资源优先派单，即使量少也保持联系。  
+- **职业发展**：提供更高级的任务，如 lead reviewer、术语管理、测试用例设计等。  
+- **长期协议**：给予优秀人才年度框架协议或保底工作量。  
+- **尊重时区和假期**：尤其是日本、韩国、俄语区的节假差异。
