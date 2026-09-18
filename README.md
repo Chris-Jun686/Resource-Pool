@@ -1,98 +1,123 @@
-# Resource-Pool Building and Maintaining
+# Orbit8 Lab – Freelance Resource Pool
 
-## 2.目标 Pool 大小：应该有多少 PE 和 LQA？
+## Chinese-to-Russian Game Localization PE Reviewer & LQA Tester
 
-目标 pool 大小取决于：
+### About Us
 
-- 预计月/季度文本量  
-- 项目峰值和并行项目数  
-- 交付周期要求  
-- 每个资源可承担的产能  
-- 质量冗余和备份需求  
-- 预算限制
+Orbit8 Lab is a game localization startup providing end-to-end localization services for game publishers, from machine translation (MT) to post-editing (PE) and in-game quality assurance (LQA). As demand for Chinese-to-Russian projects continues to grow, we are looking to recruit PE reviewers and LQA testers for long-term collaboration and inclusion in our core resource pool.
 
-### 2.1 PE 数量估算公式
+**Engagement type:** Freelance/project-based, non-employment, non-exclusive. Specific terms will be governed by the agreement signed by both parties.
 
-假设：
-- 一个 PE 每天可编辑 3000–5000 词，月度产能约 6万–10万词  
-- 你预计日语月均需求 20万词，峰值 40万词  
-- 需要至少覆盖峰值，并考虑 1.5–2 倍冗余
+---
 
-则：
-- 峰值 40万词 / 人均 8万词 = 5 人  
-- 加冗余：5 × 1.5–2 = **8–10 名合格 PE**
+## Position 1: Chinese-to-Russian Game Localization PE Reviewer
 
-但初期不建议直接签这么多人，可以：
-- 先建 **3–5 名核心 PE + 2–3 名备用 PE**  
-- 随着项目量增加再扩充到 8–10 名
+**Role type:** Part-time / Freelance translator  
+**Location:** Remote  
+**Language pair:** Simplified Chinese → Russian  
+**Engagement type:** Freelance/project-based, non-exclusive
 
-### 2.2 LQA 数量估算
+### What We Offer
 
-LQA 更依赖版本和设备。
+- **Ongoing project opportunities:** We work with multiple publishers and maintain a steady project pipeline. High performers may receive priority assignments.
+- **Transparent feedback:** After each batch, we provide a quality feedback report covering metrics such as PE edit rate and terminology consistency.
+- **Flexible collaboration:** Remote work, settled per batch.
+- **Long-term partnership:** High performers will be offered a long-term cooperation agreement and entry into our core resource pool, with priority assignments and more competitive rates.
 
-假设：
-- 一个语言一个版本测试周期 3–5 天  
-- 每天需要 1–2 名测试人员  
-- 同时测 2 个平台或 2 个项目就需要加倍
+### Compensation
 
-建议：
-- 每个语言至少准备 **3–4 名可调度 LQA 测试员**  
-- 如果项目密集，准备 **5–6 名**  
-- 核心 LQA 最好有 1–2 名固定合作，其余作为弹性池
+- **Pricing basis:** Per-character/word rate, to be confirmed in writing before project start.
+- **Rate range:** RMB _–_ per 1,000 Chinese source characters, or USD _–_ per 1,000 words; rates will be tiered based on test performance. Complex or urgent projects: +_%.
 
-### 2.3 初期推荐 Pool 大小
+### Responsibilities
 
-| 语言 | 初期 PE 数 | 初期 LQA 数 | 备注 |
-|---|---:|---:|---|
-| 日语 | 4–6 | 3–4 | 成本高，但质量优先 |
-| 韩语 | 4–6 | 3–4 | 可适当增加备用 |
-| 俄语 | 3–5 | 3–4 | 供应充足，但需筛质量 |
+1. Post-edit Russian game text produced by machine translation (MT) to ensure accuracy, fluency, and fit with game context and character voice.
+2. Maintain terminology consistency and stylistic uniformity based on the glossary and style guide provided by the team.
+3. Identify and flag systematic error patterns in MT output, such as terminology mistranslations, tone deviations, and culturally inappropriate expressions, and report them to the project manager for MT engine optimization.
+4. Submit PE deliverables per batch and cooperate with quality spot checks and revisions.
 
-如果三个语言都做，初期总池大约：
+### Requirements
 
-- PE：**12–18 人**  
-- LQA：**9–12 人**  
-- 加上备用和观察名单，总池 30–40 人规模比较合理。
+1. Native or near-native (C2) proficiency in Russian, verifiable through testing; Chinese at HSK6 or above, with the ability to accurately understand Simplified Chinese source text; basic English reading skills.
+2. Experience in Chinese-to-Russian game localization or MTPE, with familiarity with common game text types: narrative dialogue, UI, system messages, etc.
+3. Proficiency with CAT tools (e.g., Trados, memoQ), or the ability to learn quickly.
+4. Ability to process at least 2,500 characters per day on average; with a complete glossary and clear style guide, target output of 3,000–4,000 characters per day.
+5. In-depth knowledge of at least one game genre.
+6. Stable part-time availability and ability to work with short- to medium-term weekly delivery cycles.
 
-- ## 3. 人才获取渠道
+### Nice to Have
 
-### 3.1 主动搜寻
+- Experience with QA tools such as Xbench.
+- Experience in game localization at a game company or LSP.
+- Familiarity with Russian players’ language habits and cultural preferences.
 
-- **LinkedIn**  
-  搜索关键词：Japanese game localization editor, Korean LQA tester, Russian game translator 等。  
-  加入本地化相关群组。
+### How to Apply
 
-- **ProZ / TranslatorsCafe**  
-  传统翻译平台，适合找 PE，但游戏本地化经验需要筛选。
+Please apply directly via [job platform]/[email address]. In your CV/resume, please include:
 
-- **Upwork / Fiverr**  
-  可以用，但质量波动大。适合补充弹性资源，不建议作为核心池唯一来源。
+- Relevant game localization or MTPE experience, specifying project types and language pairs.
+- Expected rate per word/character or hourly rate (RMB/USD acceptable).
+- List of games played and cumulative playtime.
+- CAT tool experience.
 
-- **本地化行业平台和社群**  
-  - LocJAM  
-  - IGDA Localization SIG  
-  - Women in Localization  
-  - Game Localization Discord/Slack 群  
-  - Reddit: r/gamedev, r/TranslationStudies, r/localization
+We will contact shortlisted applicants and send the test by email within _ business days. Applicants who are not shortlisted will not be notified individually. The screening test is unpaid. Successful candidates will sign an NDA and a long-term cooperation agreement.
 
-- **LSP / 供应商**  
-  如果项目量很大，可以直接与 2–3 家游戏本地化供应商合作，由他们提供 PE 和 LQA。这种方式省去大量管理成本，但费率会高于直接自由职业者。
+---
 
-- **大学和语言项目**  
-  适合培养初级 LQA 或储备人才，不适合立刻承担核心项目。
+## Position 2: Chinese-to-Russian Game Localization LQA Tester
 
-### 3.2 被动吸引
+**Role type:** Part-time / Freelance tester  
+**Location:** Remote (device capable of running game builds required)  
+**Language pair:** Simplified Chinese → Russian  
+**Engagement type:** Freelance/project-based, non-exclusive
 
-- 发布清晰的 JD 和测试任务  
-- 在专业社群发布合作机会  
-- 建立推荐奖励机制：现有 PE/LQA 推荐合格人才，成功后给予奖金或优先派单
+### What We Offer
 
-### 3.3 人才保留和关系管理策略
+- **Ongoing project opportunities:** We work with multiple publishers and have stable LQA demand. High performers may receive priority assignments.
+- **Professional issue-tracking workflow:** The team uses a standardized bug-tracking sheet. All feedback is recorded and analyzed, helping testers build a quantifiable LQA track record.
+- **Flexible scheduling:** Shifts are scheduled by project cycle; working hours are negotiable.
+- **Long-term partnership:** High performers enter our core resource pool and receive priority assignments and better rates.
 
-- **及时付款**：这是最重要的保留因素。  
-- **清晰 style guide 和术语库**：减少返工和沟通成本。  
-- **合理反馈**：让 PE/LQA 知道自己的质量如何被评估。  
-- **稳定派单**：核心资源优先派单，即使量少也保持联系。  
-- **职业发展**：提供更高级的任务，如 lead reviewer、术语管理、测试用例设计等。  
-- **长期协议**：给予优秀人才年度框架协议或保底工作量。  
-- **尊重时区和假期**：尤其是日本、韩国、俄语区的节假差异。
+### Compensation
+
+- **Pricing basis:** Hourly or fixed project fee, to be confirmed in writing before project start.
+- **Rate range:** RMB _–_ per hour, or RMB _–_ per project.
+
+### Responsibilities
+
+1. Run the Russian build in-game and verify, item by item, how the text delivered during the PE stage appears in the live game environment.
+2. Identify and document the following issue types:
+   - **Text display issues:** overflow, truncation, garbled text, missing fonts, line-break errors.
+   - **Translation quality issues:** inconsistency with terminology/style confirmed during PE, context mismatch, tone deviation, etc.
+   - **Functional issues:** unreplaced variables (e.g., [PlayerName] not displaying correctly), broken links, UI misalignment causing unreadable text.
+   - **Cultural adaptation issues:** expressions that do not fit Russian player habits, misuse of sensitive content.
+3. Complete issue reports in the team’s bug-tracking sheet, including screenshots/screen recordings, reproduction steps, severity level, and suggested fixes.
+4. Submit a test summary after each test round, including issue count, issue type distribution, and analysis of high-frequency issues.
+
+### Requirements
+
+1. Native or near-native (C2) proficiency in Russian, with the ability to accurately judge naturalness and cultural fit of translations in game context; Chinese at HSK6 or equivalent, with the ability to understand Simplified Chinese source text.
+2. Experience in game LQA testing, with knowledge of basic LQA workflows and bug-reporting standards.
+3. Ability to independently run game builds (PC or mobile) and capture screenshots and screen recordings.
+4. Familiarity with at least one mainstream bug-tracking tool or spreadsheet tool, such as Excel/Google Sheets.
+5. In-depth gameplay experience in at least one game genre.
+6. Ability to validate at least 5,000 units per day for LQA (unit to be defined by project, e.g., source characters, target words, or string count); able to maintain stable output during project windows.
+7. High attention to detail and ability to catch subtle text display issues.
+
+### Nice to Have
+
+- Experience in LQA at a game company or LSP.
+- Familiarity with terminology across multiple game genres, such as MMO, card, and simulation games.
+- Experience with QA tools.
+
+### How to Apply
+
+Please apply directly via [job platform]/[email address]. In your CV/resume, please include:
+
+- Relevant game LQA or testing experience, specifying projects, language pairs, and test platforms.
+- List of games played and cumulative playtime, especially experience related to the genres mentioned above.
+- Your device details, including PC specs/mobile device model.
+- Expected hourly rate or per-project pricing.
+- Weekly availability for LQA work.
+
+We will contact shortlisted applicants and send the test by email within _ business days. Applicants who are not shortlisted will not be notified individually. The screening test is unpaid. Successful candidates will sign an NDA and a long-term cooperation agreement.
